@@ -1,16 +1,16 @@
-### Hi there 👋
+Kiwi Discord Bot          
 
-<!--
-**kiwidiscordbot/kiwidiscordbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
 
-Here are some ideas to get you started:
+Kiwi
+====
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Invite](https://discord.com/oauth2/authorize?client_id=742851130354303027&permissions=8&scope=bot) [Support](https://discord.gg/WqUmTEvc) [Commands](https://kiwidiscordbot.xyz/commands.html)  
+  
+  
+  
+
+An Advanced Multi-Purpose Discord Bot that'll reach your expections
+
+  
+_Designed with by: Kory#1000_
